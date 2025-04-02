@@ -1,7 +1,7 @@
 # inv_sig_helper
 
 `inv_sig_helper` is a Rust service that decrypts YouTube signatures and manages player information. It offers a TCP/Unix socket interface for signature decryption and related operations.
-
+d
 ## Features
 
 - Decrypt YouTube `n` and `s` signatures
